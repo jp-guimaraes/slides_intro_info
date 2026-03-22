@@ -1,113 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Introdução ao Computador</title>
-    <link>https://jp-guimaraes.github.io/slides_intro_info/home/</link>
-    <description>Recent content in Homes on Introdução ao Computador</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://jp-guimaraes.github.io/slides_intro_info/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jp-guimaraes.github.io/slides-introducao-informatica/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/intro/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/01-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/intro/</guid>
-      <description> Objetivos Entender os componentes básicas de um computador.
-Conhecer mídias de armazenamento
-Estudar fundamentos e funções de um sistema operacional
- Sumário  O que é um computador? Componentes básicos de um sistema computacional Tipos de Memórias Mídias de armazenamento Sistemas Operacionais   </description>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/01-intro/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h1&gt;&#xA;&lt;p&gt;Entender o conceito de computador, computação, informática&lt;/p&gt;&#xA;&lt;p&gt;Conhecer uma breve evolução histórica relacioada ao computador&lt;/p&gt;&#xA;&lt;p&gt;Conhecer os componentes básicos do computador&lt;/p&gt;&#xA;&lt;p&gt;Fazer login no GSA da turma&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/computador/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/02-evolucao-historica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/computador/</guid>
-      <description>Foi notícia “Cyberpunk 2077, um dos jogos eletrônicos mais aguardados da história &amp;hellip; &amp;ldquo;
- 💸
-Preço de um PC capaz de rodar Cyberpunk 2077: R$ 4450,00
-Preço do Xbox Series X: R$ 4999,00; Series S: R$ 2999,00
- Um videogame é um computador? Ou um computador é um videogame?
-Afinal, o que é um computador?  Definição do dicionário de Oxford:
- o que computa; calculador, calculista. (no contexto de informática) máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.</description>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/02-evolucao-historica/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;notícias-de-ontem&#34;&gt;Notícias de ontem&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.e-farsas.com/wp-content/uploads/jornal_tecnologia.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Notícia trata de uma &lt;a href=&#34;https://www.e-farsas.com/wp-content/uploads/jornal_tecnologia.jpg&#34;&gt;montagem&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;opiniões&#34;&gt;Opiniões&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;No futuro, os computadores não pesarão mais do que 1,5 tonelada&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Popular Mechanics, prevendo a evolução da ciência, 1949&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Penso que há talvez no mundo um mercado para 5 computadores&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Thomas Watson, presidente da IBM, 1943&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Viajei por todos os lados neste país, e posso assegurar-lhes que processamento de dados é uma ilusão que não perdura até o fim do ano&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/hd/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/03-computador-digital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/hd/</guid>
-      <description>Tipos de armazenamento secundário  Disco Rígido Hard disk (HD)
-Natureza magnética
- Componentes Importante: Partes móveis
- Endereço do dado Discos, Faces, Trilhas, Setores,
-   Dados nos discos Leitura complementar
- Unidade de armazenamento O que é usado na arquitetura do computador x O que é usado pelos fabricantes (sistema internacional de medidas)
-[kibibyte](https://pt.wikipedia.org/wiki/Byteeu já )
- Vídeo complementar Histório 1000 vs 1024
- </description>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/03-computador-digital/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;p&gt;Definição de Tanenbaum:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;hardware-x-software&#34;&gt;Hardware x Software&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;&#xA;&lt;img src=&#34;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaO7C5nMJDZH2-uiIfPS8H9xI5ZR0ysTHwQg&amp;s&#34; alt=&#34;hardware&#34; width=&#34;600px&#34;/&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://jpefconsultoria.com.br/assets/uploads/noticias/capa/9c555cffc67d5f44043aeea2aad4e204.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sistema-computacional&#34;&gt;Sistema Computacional&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Hardware&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Software&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Pessoas&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;abstração&#34;&gt;Abstração&lt;/h1&gt;&#xA;&lt;p&gt;Dados&lt;/p&gt;&#xA;&lt;p&gt;Processamento&lt;/p&gt;&#xA;&lt;p&gt;Saída&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blogdetiblog.files.wordpress.com/2014/09/processamento-dados-computador.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Hardware&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Software&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://tecnoblog.net/wp-content/uploads/2019/10/cyber-2377718_1280-cut-700x394.jpg&#34; alt=&#34;&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://appdividend.com/wp-content/uploads/2019/07/Java-While-Loop-Example-While-Loop-In-Java.png%22&#34; alt=&#34;&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;componentes-físicos&#34;&gt;Componentes Físicos&lt;/h1&gt;&#xA;&lt;p&gt;Dispositivos de entrada/Dispositivos de saída&lt;/p&gt;&#xA;&lt;p&gt;Processamento&lt;/p&gt;&#xA;&lt;p&gt;Memórias&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://4.bp.blogspot.com/-DlAc2yOqDSM/T1Qe4B0exhI/AAAAAAAAABQ/txtNQNq2QNw/s1600/MODULOS_COMP_RES_UM.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;hardware-1&#34;&gt;Hardware&lt;/h1&gt;&#xA;&lt;p&gt;Processador&lt;/p&gt;&#xA;&lt;p&gt;Memória Primária&lt;/p&gt;&#xA;&lt;p&gt;Periféricos (I/O)&lt;/p&gt;&#xA;&lt;p&gt;Memória Secundária&lt;/p&gt;&#xA;&lt;p&gt;Placa-mãe&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/flash/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/04-sistemas-operacionais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/flash/</guid>
-      <description> Memória Flash Características:
- Não volátil Não possuem partes móveis Baixo custo (ainda maior do que HD) Volume reduzido Baixo consumo energético Alta resistência (Durabilidade, segurança)  Desvantagens:
- Número limitado de operações de leitura/escrita Energização periódica   Onde são usadas? Substituição de ROMs (Placa mãe, microcontroladores, dispositivos embarcados)
-Dispositivos portáteis (pendrive, Flashdrive, Armazenamento externo)
-SSD (Solid State Disk)
- </description>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/04-sistemas-operacionais/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;sistemas-operacionais&#34;&gt;Sistemas Operacionais&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fundamentos-e-funções-do-sistema-operacional&#34;&gt;Fundamentos e Funções do Sistema Operacional&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;O que são?&lt;/li&gt;&#xA;&lt;li&gt;Principais funções&lt;/li&gt;&#xA;&lt;li&gt;Sistemas operacionais multiusuário&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;principais-sistemas-operacionais-modernos&#34;&gt;Principais Sistemas Operacionais Modernos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Windows&lt;/li&gt;&#xA;&lt;li&gt;macOS&lt;/li&gt;&#xA;&lt;li&gt;Linux&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;gerenciamento-de-pastas-e-arquivos&#34;&gt;Gerenciamento de Pastas e Arquivos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estrutura de diretórios&lt;/li&gt;&#xA;&lt;li&gt;Operações básicas (criar, copiar, mover, deletar)&lt;/li&gt;&#xA;&lt;li&gt;Permissões de acesso&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;softwares-utilitários&#34;&gt;Softwares Utilitários&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Compactadores&lt;/li&gt;&#xA;&lt;li&gt;Antivírus&lt;/li&gt;&#xA;&lt;li&gt;Limpeza de disco&lt;/li&gt;&#xA;&lt;li&gt;Gerenciadores de arquivos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/oticas/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/05-internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/oticas/</guid>
-      <description> Mídias óticas  Características Diferentes tecnologias
-Capacidade de Armazenamento
-Velocidade
-ROM, R, RW
- </description>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/05-internet/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;internet&#34;&gt;Internet&lt;/h1&gt;&#xA;&lt;h2 id=&#34;aplicações-e-serviços-na-internet&#34;&gt;Aplicações e Serviços na Internet&lt;/h2&gt;&#xA;&lt;h3 id=&#34;b-navegadores-web-e-sistemas-de-e-mail&#34;&gt;b. Navegadores web e sistemas de e-mail&lt;/h3&gt;&#xA;&lt;h3 id=&#34;c-serviços-de-armazenamento-em-nuvem&#34;&gt;c. Serviços de armazenamento em nuvem&lt;/h3&gt;&#xA;&lt;h3 id=&#34;d-ambientes-virtuais-de-aprendizagem-ava&#34;&gt;d. Ambientes Virtuais de Aprendizagem (AVA)&lt;/h3&gt;&#xA;&lt;h2 id=&#34;segurança-da-informação&#34;&gt;Segurança da Informação&lt;/h2&gt;&#xA;&lt;h3 id=&#34;i-conceitos-fundamentais-de-segurança-da-informação&#34;&gt;i. Conceitos fundamentais de segurança da informação&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ii-medidas-de-proteção-de-dados-pessoais&#34;&gt;ii. Medidas de proteção de dados pessoais&lt;/h3&gt;&#xA;&lt;h3 id=&#34;iii-práticas-para-prevenção-de-ameaças-digitais&#34;&gt;iii. Práticas para prevenção de ameaças digitais&lt;/h3&gt;&#xA;&lt;h2 id=&#34;aspectos-éticos-e-legais&#34;&gt;Aspectos Éticos e Legais&lt;/h2&gt;&#xA;&lt;h3 id=&#34;e-questões-éticas-e-legais-em-tecnologia-da-informação&#34;&gt;e. Questões éticas e legais em tecnologia da informação&lt;/h3&gt;&#xA;&lt;h3 id=&#34;f-lei-geral-de-proteção-de-dados-lgpd&#34;&gt;f. Lei Geral de Proteção de Dados (LGPD)&lt;/h3&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/nuvem/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/07-informatica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/nuvem/</guid>
-      <description> Nuvem O que é armazenamento na nuvem?
-Tecnologias envolvidas?
- Preços Google drive
-One drive
-Dropbox
- </description>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/07-informatica/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h1 id=&#34;informática&#34;&gt;Informática&lt;/h1&gt;&#xA;&lt;p&gt;Dicionário de Oxford&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ciência que se dedica ao tratamento da informação mediante o uso de computadores e demais dispositivos de processamento de dados.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;disciplina&#34;&gt;Disciplina&lt;/h1&gt;&#xA;&lt;p&gt;Domínio do computador como ferramenta para ser usada durante a vida pessoal/acadêmica/profissional do aluno&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://brasilescola.uol.com.br/informatica&#34;&gt;Leitura complementar&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/slides_intro_info/home/so/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_intro_info/home/so/</guid>
-      <description> Sistemas Operacionais O que são?
- SO Interface entre Hardware e os demais softwares/usuários
- quais os sistemas operacionais atuais? Requisitos &amp;amp; aplicações
-Interfaces de uso
-Estatísticas
- </description>
-    </item>
-    
   </channel>
 </rss>

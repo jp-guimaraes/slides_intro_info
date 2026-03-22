@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/intro/</loc>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/01-intro/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/02-evolucao-historica/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/03-computador-digital/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/04-sistemas-operacionais/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/05-internet/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/07-informatica/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/categories/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/home/</loc>
+  </url><url>
+    <loc>https://jp-guimaraes.github.io/slides-introducao-informatica/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/computador/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/hd/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/flash/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/oticas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/nuvem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/so/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/home/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/slides_intro_info/tags/</loc>
-  </url>
-  
 </urlset>
